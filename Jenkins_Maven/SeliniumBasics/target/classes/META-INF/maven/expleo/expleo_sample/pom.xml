@@ -113,9 +113,26 @@
               <goal>java</goal>
             </goals>
             <configuration>
+            <mainClass>BasicsSelinium.amazonDom</mainClass>
+            <mainClass>BasicsSelinium.Actionclass1203</mainClass>
               <mainClass>BasicsSelinium.ExplicitWait</mainClass>
               <mainClass>BasicsSelinium.Multiclick1203</mainClass>
               <mainClass>BasicsSelinium.DropdownSelect1203</mainClass>
+              <mainClass>BasicsSelinium.Task21203</mainClass>
+              <mainClass>BasicsSelinium.Omayoaction</mainClass>
+              <mainClass>BasicsSelinium.web1</mainClass>
+              <mainClass>BasicsSelinium.Task2for0403</mainClass>
+              <mainClass>BasicsSelinium.Task1for0403</mainClass>
+              <mainClass>BasicsSelinium.Task1103</mainClass>
+              <mainClass>BasicsSelinium.Task0703dropdown</mainClass>
+              <mainClass>BasicsSelinium.ScreenShotmethods</mainClass>
+              <mainClass>BasicsSelinium.RelativeLocator0703</mainClass>
+              <mainClass>BasicsSelinium.OrangeHRM0703</mainClass>
+              <mainClass>BasicsSelinium.OpenGoogle</mainClass>
+              <mainClass>BasicsSelinium.Mobiles1</mainClass>
+              <mainClass>BasicsSelinium.LeafGroundActions1203</mainClass>
+              <mainClass>BasicsSelinium.File</mainClass>
+              
                <!-- Replace with actual main class -->
             </configuration>
           </execution>
