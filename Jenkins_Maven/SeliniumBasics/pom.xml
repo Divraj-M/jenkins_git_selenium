@@ -115,6 +115,7 @@
             <configuration>
               <mainClass>BasicsSelinium.ExplicitWait</mainClass>
               <mainClass>BasicsSelinium.Multiclick1203</mainClass>
+              <mainClass>BasicsSelinium.DropdownSelect1203</mainClass>
                <!-- Replace with actual main class -->
             </configuration>
           </execution>
