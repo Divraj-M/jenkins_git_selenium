@@ -113,7 +113,7 @@
               <goal>java</goal>
             </goals>
             <configuration>
-              <mainClass>BasicsSelinium.amazonDom</mainClass> <!-- Replace with actual main class -->
+              <mainClass>BasicsSelinium.ExplicitWait</mainClass> <!-- Replace with actual main class -->
             </configuration>
           </execution>
         </executions>

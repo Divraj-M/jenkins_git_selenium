@@ -53,6 +53,18 @@ public class amazonDom {
 		  for(WebElement a:li) {
 		  System.out.println(a.getText()+"-"+a.getDomAttribute("href")); }
 		  System.out.println("size:"+c); 
+		// TODO Auto-generated method stub
+			/*
+			 * WebDriver driver1=new ChromeDriver(); driver1.manage().window().maximize();
+			 * driver1.get("https://www.leafground.com/select.xhtml"); WebElement
+			 * drop=driver1.findElement(By.xpath("//select[@class=\"ui-selectonemenu\"]"));
+			 * Select down=new Select(drop); List<WebElement> opt=down.getOptions();
+			 * System.out.println("the size of list :"+opt.size()); for(WebElement g:opt) {
+			 * System.out.println("the option list are :"+g.getText()); } Boolean
+			 * multi=down.isMultiple(); System.out.println("it is multiple option :"+multi);
+			 * down.selectByIndex(1); down.selectByVisibleText("Selenium");
+			 */
+		//	down.deselectByVisibleText("Selenium");
 		  
 		 
 		
