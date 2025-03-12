@@ -25,6 +25,7 @@ public class Task0703dropdown {
 		 
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://www.selenium.dev/selenium/web/dynamic.html");
 		WebElement box=driver.findElement(By.xpath("//input[@id=\"adder\"]"));
 		box.click();
