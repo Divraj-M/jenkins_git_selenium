@@ -11,18 +11,7 @@ public class amazonDom {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method 
-		/*
-		 * WebDriver driver1=new org.openqa.selenium.chrome.ChromeDriver();
-		 * driver1.manage().window().maximize();
-		 * driver1.get("https://www.facebook.com/"); WebElement
-		 * text=driver1.findElement(By.xpath(
-		 * "//*[@id=\"content\"]/div/div/div/div[1]/h2"));
-		 * System.out.println(text.getDomAttribute("class")); WebElement
-		 * text1=driver1.findElement(By.xpath(
-		 * "//*[@id=\"content\"]/div/div/div/div[1]/div/img"));
-		 * System.out.println(text1.getDomAttribute("class"));
-		 * System.out.println(text1.getDomAttribute("src"));
-		 */
+		
 		WebDriver driver2=new org.openqa.selenium.chrome.ChromeDriver();
 		driver2.manage().window().maximize();
 		driver2.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
