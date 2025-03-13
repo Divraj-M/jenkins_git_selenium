@@ -132,7 +132,9 @@
               <mainClass>BasicsSelinium.Mobiles1</mainClass>
               <mainClass>BasicsSelinium.LeafGroundActions1203</mainClass>
               <mainClass>BasicsSelinium.File</mainClass>
-              
+              <mainClass>BasicsSelinium.KeyBoardaction</mainClass>
+              <mainClass>BasicsSelinium.Omayoblog1303</mainClass>
+              <mainClass>BasicsSelinium.DragandDrop1303</mainClass>
                <!-- Replace with actual main class -->
             </configuration>
           </execution>
