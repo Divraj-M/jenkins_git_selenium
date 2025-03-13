@@ -135,6 +135,11 @@
               <mainClass>BasicsSelinium.KeyBoardaction</mainClass>
               <mainClass>BasicsSelinium.Omayoblog1303</mainClass>
               <mainClass>BasicsSelinium.DragandDrop1303</mainClass>
+              <mainClass>BasicsSelinium.NewWindowV41303</mainClass>
+              <mainClass>BasicsSelinium.omayoblogpopup1303</mainClass>
+              <mainClass>BasicsSelinium.WindowsDemo</mainClass>
+              <mainClass>BasicsSelinium.LeafGround1303Switch</mainClass>
+
                <!-- Replace with actual main class -->
             </configuration>
           </execution>
