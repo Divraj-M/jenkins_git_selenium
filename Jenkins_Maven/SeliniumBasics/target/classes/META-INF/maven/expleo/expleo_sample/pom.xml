@@ -139,6 +139,12 @@
               <mainClass>BasicsSelinium.omayoblogpopup1303</mainClass>
               <mainClass>BasicsSelinium.WindowsDemo</mainClass>
               <mainClass>BasicsSelinium.LeafGround1303Switch</mainClass>
+              <mainClass>BasicsSelinium.Alert1403</mainClass>
+              <mainClass>BasicsSelinium.LeafGroundFrames1403</mainClass>
+              <mainClass>BasicsSelinium.Frame1403</mainClass>
+              <mainClass>BasicsSelinium.Table1403static</mainClass>
+              <mainClass>BasicsSelinium.CalenderHandle1403</mainClass>
+
 
                <!-- Replace with actual main class -->
             </configuration>
