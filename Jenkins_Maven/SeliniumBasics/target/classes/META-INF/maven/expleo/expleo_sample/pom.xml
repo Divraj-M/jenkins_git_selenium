@@ -149,6 +149,8 @@
               <mainClass>BasicsSelinium.JSexecutor</mainClass>
               <mainClass>BasicsSelinium.JsExe1803</mainClass>
               <mainClass>BasicsSelinium.Calender1703</mainClass>
+              <mainClass>BasicsSelinium.DynamicTable1903</mainClass>
+
 
 
                <!-- Replace with actual main class -->
